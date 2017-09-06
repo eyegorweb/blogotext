@@ -8,7 +8,7 @@
 | (c) 2016-.... Mickaël 'Tiger-222' Schoentgen and the community          |
 |                                                                         |
 | BlogoText is redistributed under the terms of the X11 / MIT Licence     |
-|                                      http://opensource.org/licenses/MIT |
+| Take a look at the file LICENCE or http://opensource.org/licenses/MIT   |
 |                                                                         |
 | BlogoText is based upon others ressources, that are listed below.       |
 |                                                                         |
